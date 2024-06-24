@@ -47,7 +47,10 @@ def main():
         file.write("#EXTM3U\n\n")
     
     session = requests.Session()
-    with open('../YouTube_Live.txt', 'r', encoding='utf-8') as f:
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    txt_file_path = os.path.join(base_dir, '../YouTube_Live.txt')
+    
+    with open(txt_file_path, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     
     # Skip the first two lines
