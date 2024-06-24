@@ -30,6 +30,11 @@ jobs:
         with:
           python-version: '3.x'
 
+      # List directory contents to verify file location
+      - name: List directory contents
+        run: |
+          ls -R
+
       # Install dependencies if any
       - name: Install dependencies
         run: |
@@ -40,7 +45,7 @@ jobs:
       # Runs a set of commands using the runners shell
       - name: Run YouTube_Live.py
         run: |
-          python YouTube_Live.py
+          python ./scripts/YouTube_Live.py
 
       - name: git add
         run: |
