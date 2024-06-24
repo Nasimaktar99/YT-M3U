@@ -46,7 +46,7 @@ def main():
         file.write("#EXTM3U\n") 
  
     s = requests.Session() 
-    with open('../Channel name.txt', 'r', encoding='utf-8') as f: 
+    with open('../YouTube_Live.txt', 'r', encoding='utf-8') as f: 
         lines = f.readlines() 
  
     # Skip the first two lines 
