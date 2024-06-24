@@ -1,6 +1,60 @@
-~~ DO NOT EDIT THE FIRST 2 LINES	
-~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
+~~ DO NOT EDIT THE FIRST 2 LINES 
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> 
+ 
 
+ABP ANANDA  | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png | abpananda |
+https://www.youtube.com/live/PKwLsAu-z10
 
-beIN SPORTS HABER | | | |
-https://www.youtube.com/c/beINSPORTSTürkiye/live
+24 GHANTA | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png | 24ghanta 
+https://www.youtube.com/channel/UCdF5Q5QVbYstYrTfpgUl0ZA
+
+Kolkata TV | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png | kolkatatv 
+https://www.youtube.com/channel/UCNvCQpcafnbW4KQ8X7oQ9kg
+
+TV-9 Bangla | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Bangla.png | tv9news 
+https://www.youtube.com/channel/UCHCR4UFsGwd_VcDa0-a4haw 
+ 
+News 18 Bangla | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png | news18bangla
+https://www.youtube.com/channel/UCbf0XHULBkTfv2hBjaaDw9Q 
+ 
+Republic Bangla | NEWS | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61251-klylf4u0-v2/imageContent-61251-klylf4u0-m9.png | republicbangla 
+https://www.youtube.com/channel/UCajVjEHDoVn_AHsunUZz_EQ
+
+News Time Bangla | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png | newstimebangla 
+https://www.youtube.com/channel/UC-drIvdQ0sZlyPXCizj4vgQ
+
+AajTak HD | NEWS | https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34652-jpmey8gw-v1/imageContent-34652-jpmey8gw-m1.png | aajtakhd 
+https://www.youtube.com/channel/UClmlqOOktUTpfW0EkTiqSjQ
+
+NDTV | NEWS | https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png | ndtv
+https://www.youtube.com/channel/UCZFMm1mMw0F81Z37aaEzTUA
+
+SOMOY TV | NEWS | https://yt3.googleusercontent.com/dcx8BUs_aHDYkGkTVhHpORuF1MOHI6ZM5AdG9pe9gm9Q_atfhEuq_-mO8l1h5q8qJZzlUzWSgw=s176-c-k-c0x00ffffff-no-rj | somoytv 
+https://www.youtube.com/channel/UCNUFterLJ9vpFZZ0try7sLA
+
+Jamuna TV | NEWS | https://yt3.googleusercontent.com/ytc/AIdro_n0MjdgkrP1eId4ysNshsCnnnlzd2j1xHYecd9XqbVRDhs=s176-c-k-c0x00ffffff-no-rj | jamunatv 
+https://www.youtube.com/channel/UCN6sm8iHiPd0cnoUardDAnw
+
+Independent Television | NEWS | https://yt3.googleusercontent.com/5J5NFuXWxr4iUv3nxWF0genblTzZ8wU5N9NjxvZdOKkGs1U3Y_KqrojCJ5Id4N9pFeIZ3uyCKkk=s176-c-k-c0x00ffffff-no-rj | independenttv 
+https://www.youtube.com/channel/UCATUkaOHwO9EP_W87zCiPbA
+
+RTV | NEWS | https://yt3.googleusercontent.com/SN5R2c_9uZrppnfXYz5NCXtsSMgYCHhV5hmUkoX8HR7aTY2zHPnzBY8mDJsG27Ip_O9d7tqRCw=s176-c-k-c0x00ffffff-no-rj | rtv 
+https://www.youtube.com/channel/UC2P5Fd5g41Gtdqf0Uzh8Qaw
+
+Ekattor Television | NEWS | https://yt3.googleusercontent.com/KoJ2pT4X6j0kPf8g8MRv5MaRVR_ZRW18Fyb_U0U7azCr10kQEtpY5GIz3M9GZ0ZQazfGaP9I=s176-c-k-c0x00ffffff-no-rj | ekattortv 
+https://www.youtube.com/channel/UCtqvtAVmad5zywaziN6CbfA
+
+BanglaVision | NEWS | https://yt3.googleusercontent.com/nRiPzBbLZ0TZnTfIqkD_wQM88MhlZilDX7gQsNEtbStD2gGybUxb8svTJNFsWr2lF--ZnPRu=s176-c-k-c0x00ffffff-no-rj | banglavision 
+https://www.youtube.com/channel/UCA4y9g_GRdNrZLH_u5LLSdw
+
+IFAS LIVE | EDUCATION | https://yt3.googleusercontent.com/I117MWYBiIeg3eRvtYUwaml1qHIiu8eNSBS-IfoXFIDDNm4K1hnl-91GVPv9ji5OIgENA25Rew=s176-c-k-c0x00ffffff-no-rj | ifaslive
+https://www.youtube.com/channel/UCTN-fCATY79l4QiJQ7rT0wA
+
+TLS ONLINE LIVE | EDUCATION | https://yt3.googleusercontent.com/CgzH91P19uuoLqBFMIIbwilxo86ob7poQgubUI7JWu3L1pupBEKhJvppSEPahwa-FcGb8aTX-w=s176-c-k-c0x00ffffff-no-rj | tlsonline
+https://www.youtube.com/UCig19yrLt_FuIefxu9m_5vg
+
+VEDEMY LIVE | EDUCATION | https://yt3.googleusercontent.com/SfkpvVMf3wVi867unQ2LrTIyAmCAWAcnqmFk-Plfd5XeoyHe1NPx-ms6jVRil2KBF6vY6_aZK04=s176-c-k-c0x00ffffff-no-rj | vedemylive
+https://www.youtube.com/channel/UCcNKR03knYmJZx2TA3x-4lw
+
+TextBook CSIR NET | EDUCATION | https://yt3.googleusercontent.com/q3Fo38eq-vxVi5utVtcYiK1zdgD6lBx_nPjyi1TOVuF9SZbknm6LBEv6gYkT2yQxODPlzB5o=s176-c-k-c0x00ffffff-no-rj | textbooknetlive
+https://www.youtube.com/channel/UC1UeZ4YaX4M3cTPPE8bMJjA
