@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: YouTube Live to M3U
+name: ABP-ANANDA
 
 # Controls when the action will run. 
 on:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x YouTube_Live.sh
-          ./YouTube_Live.sh
+          chmod +x IFAS_Live.sh
+          ./IFAS_Live.sh
         
       - name: git add
         run: |
@@ -53,4 +53,3 @@ jobs:
         run: |
           git commit -m "Link updated"
           git push
-
