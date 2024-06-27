@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: IFAS LIVE
+name: IFAS-LIVE
 
 # Controls when the action will run. 
 on:
@@ -41,8 +41,8 @@ jobs:
       - name: Main
         run: |
           pwd
-          chmod +x IFAS_Live.sh
-          ./IFAS_Live.sh
+          chmod +x IFAS-LIVE.sh
+          ./IFAS-LIVE.sh
         
       - name: git add
         run: |
