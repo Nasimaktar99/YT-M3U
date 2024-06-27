@@ -6,6 +6,6 @@ python3 -m pip install requests
 
 cd $(dirname $0)/scripts/
 
-python3 IFAS_Live.py > ../IFAS_Live.m3u8
+python3 IFAS-LIVE.py > ../IFAS-LIVE.m3u8
 
 echo m3u8 grabbed
