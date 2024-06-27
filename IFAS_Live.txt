@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES 
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id> 
  
-IFAS LIVE | EDUCATION | https://yt3.googleusercontent.com/I117MWYBiIeg3eRvtYUwaml1qHIiu8eNSBS-IfoXFIDDNm4K1hnl-91GVPv9ji5OIgENA25Rew=s176-c-k-c0x00ffffff-no-rj | ifaslive
+IFAS LIVE | | | |
 https://www.youtube.com/channel/UCTN-fCATY79l4QiJQ7rT0wA
